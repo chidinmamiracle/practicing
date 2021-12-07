@@ -3,4 +3,5 @@ const person = {
   lastName: "Steve",
   age: 5,
   country: "America",
+  hairColor: "Brown",
 };
